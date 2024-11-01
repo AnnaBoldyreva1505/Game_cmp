@@ -10,4 +10,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "/your-repo-name/", // Замените 'your-repo-name' на название вашего репозитория
 });
